@@ -1,0 +1,42 @@
+body{
+    background-color: #ccc;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 500px;
+    width: 800px;
+    background-color: white;
+    margin-left: 160px;
+    box-shadow: 9px 5px 5px rgba(1, 1, 1, 0.2);
+    margin-top: 20px;
+
+}
+.box1{
+    height: 500px;
+    width: 400px;
+    /* background-color: aquamarine; */
+    float: left;
+}
+.box2{
+    height: 500px;
+    width: 400px;
+    background-color: red;
+    float: left;
+    background-image: url("Images/girl.jfif");
+}
+table{
+    height: 350px;
+    width: 300px;
+}
+a{
+    margin-left: 100px;
+    font-size: 13px;
+    color: black;
+}
+button{
+    margin-top: 7px;
+    border-radius: 2px;
+}
